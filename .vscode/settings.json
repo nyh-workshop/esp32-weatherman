@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "stdio.h": "c",
+        "task.h": "c",
+        "string.h": "c"
+    }
+}
