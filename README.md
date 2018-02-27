@@ -27,8 +27,7 @@ This app deep sleeps for approximately 20 minutes and then wakes up to grab the 
 ## For more information of installing the toolchain w/ Visual Studio code, proceed to the hackaday page:
 
 1. https://hackaday.io/project/53259-deploying-standalone-esp32-idf-sdk-platform (without PlatformIO)
-https://hackaday.io/project/43374-esp32-idf-deploying-the-
-2. development-platform (with PlatformIO)
+2. https://hackaday.io/project/43374-esp32-idf-deploying-the-development-platform (with PlatformIO)
 
 Microsecond delay code is from: https://github.com/espressif/arduino-esp32
 
